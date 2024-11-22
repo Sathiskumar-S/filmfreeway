@@ -1,0 +1,26 @@
+.hero {
+    margin: 0px 120px;
+    margin-top: 150px;
+}
+
+.hero-text {
+    box-sizing: border-box !important;
+    color: #fff;
+    font-family: OpenSans, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 50px;
+    text-align: left;
+}
+
+.hero-text h1{
+    font-size: 50px;
+}
+
+.hero-text p{
+    line-height: 1.6;
+    font-size: 26px;
+}
