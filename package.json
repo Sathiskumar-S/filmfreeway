@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sathiskumar-s.github.io/filmfreeway/",
+  "homepage": "https://sathiskumar-s.github.io/filmfreeway",
   "name": "filmfreeway",
   "private": true,
   "version": "0.0.0",
@@ -10,12 +10,12 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
