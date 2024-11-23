@@ -9,13 +9,14 @@
     margin-left: -10px;
     padding-top: 50px;
     position: relative;
+    margin-bottom: 5%;
 }
 
 .review-title{
     display: flex;
     position: absolute;
     width: 50%;
-    margin-top: 20%;
+    margin-top: 6%;
     padding: 20px 40%;
     color: #fff;
     font-size: 40px;

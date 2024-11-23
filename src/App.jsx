@@ -6,6 +6,9 @@ import Hero from "./components/Hero/Hero.jsx";
 import Watermark from "./components/UI/Watermark.jsx";
 import TopFestival from "./components/UI/TopFestival.jsx";
 import Reviews from "./components/UI/Reviews.jsx";
+import BestFestivals from "./components/UI/BestFestivals.jsx";
+import GetStarted from "./components/UI/GetStarted.jsx";
+import Footer from "./components/Footer/Footer.jsx";
 
 const App = () => {
 
@@ -19,6 +22,9 @@ const App = () => {
         <Watermark />
         <TopFestival />
         <Reviews />
+        <BestFestivals />
+        <GetStarted />
+        <Footer />
     </div>
   )
 }

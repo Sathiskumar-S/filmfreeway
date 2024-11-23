@@ -27,6 +27,7 @@ const TopFestival = () => {
         <Festival header={topFestData[0].header} content={topFestData[0].content} btnName={topFestData[0].btnName} />
         <Festival header={topFestData[1].header} content={topFestData[1].content} btnName={topFestData[1].btnName} />
         <Festival header={topFestData[2].header} content={topFestData[2].content} btnName={topFestData[2].btnName} />
+        <div className="empty"></div>
       </div>
   )
 }

@@ -1,0 +1,44 @@
+.getStat-bg{
+    height: 90vh;
+    width: 140%;
+    left: 0;
+    right: 0;
+    object-fit: cover;
+    position: relative;
+    margin-top: -150px;
+    margin-left: -160px;
+}
+
+.getStat-title{
+    display: flex;
+    width: 50%;
+    padding: 20px 40%;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+    position: relative;
+    margin-top: -500px;
+    margin-left: -50px;
+}
+
+.getStat-content{
+    display: flex;
+    position: relative;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    font-family: outfit;
+    width: 50%;
+    font-size: 23px;
+    font-weight: 400;
+    margin: 0 auto;
+    color: #fff;
+    padding-top: 0;
+
+}
+
+.getStat-btn{
+    position: relative;
+    left: 45%;
+    margin-top: 40px;
+}
